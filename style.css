@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;600;700;800&family=Poppins:wght@400;500;600;700&family=Roboto:wght@400;500;700&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+.but {
+    justify-content: space-between;
+    display: flex;
+    gap: 30px;
+}
+
+button {
+    width: 105px;
+    height: 40px;
+    flex-shrink: 0;
+
+
+    border-radius: 28px;
+    background: #2BD0D0;
+}
+
+.pp {
+    display: flex;
+    gap: 30px;
+}
+
+p {
+    color: #9E9AA8;
+
+    font-family: Poppins;
+    display: flex;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal
+}
+
+.class {
+    display: flex;
+    gap: 30px;
+    row-gap: 30px;
+    justify-content: space-between;
+    width: 1100px;
+    margin: 30px auto;
+}
+
+.div {
+    display: flex;
+}
+
+.cl {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.More {
+
+    color: black;
+
+    font-family: Poppins;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 90px;
+    /* 112.5% */
+    letter-spacing: -2px;
+    width: 500px;
+
+}
+
+.Build {
+    width: 540px;
+    color: #9E9AA8;
+
+    font-family: Poppins;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 36px;
+    /* 163.636% */
+    letter-spacing: 0.15px;
+}
+
+.fg {
+    display: flex;
+    gap: 300px;
+}
+
+.df {
+    width: 1110px;
+    height: 168px;
+    flex-shrink: 0;
+margin: 0 auto;
+    border-radius: 10px;
+    background: #3A3054;
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.first-section {
+    background-color: rgb(185, 98, 98);
+}
+
+.h1 {
+    color: #FFF;
+
+    text-align: center;
+    font-family: Poppins;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px;
+    /* 120% */
+    letter-spacing: -1px;
+}
+.input{
+    width: 769px;
+height: 64px;
+flex-shrink: 0;
+
+border-radius: 10px;
+background: #FFF;
+
+}
+.button{
+    width: 188px;
+height: 64px;
+flex-shrink: 0;
+
+border-radius: 10px;
+background: #2BD0D0;
+}
+.limon-button{
+    width: 197px;
+height: 60.48px;
+flex-shrink: 0;
+
+border-radius: 28px;
+background: #2BD0D0;
+align-items: center;
+display: block;
+margin: 15px auto ;
+}
+.oxirgisi{
+    width: 1440px;
+height: 150.202px;
+flex-shrink: 0;
+
+background: #232127;
+}
